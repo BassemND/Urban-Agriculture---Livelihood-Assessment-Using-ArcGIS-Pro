@@ -39,13 +39,6 @@ Due to **confidentiality** and data protection policies, I’m only sharing a **
 
 - `README.md`  
 
-## 📊 Initiatives by District
-
-The bar chart below visualizes the distribution of various urban agriculture and livelihood initiatives across Lebanon's districts. It highlights the types and concentration of activities, from vocational training to cooperative support.
-
-![Sum of Initiatives per District](docs/Sum%20of%20Initiatives%20per%20District.jpg)
-
-
 ## 🛡️ Data Sensitivity Notice
 
 All data shared in this repository has been carefully reviewed and **stripped of sensitive or identifying information** related to donors, beneficiaries, or implementing partners. The original dataset remains confidential and is not publicly available.
